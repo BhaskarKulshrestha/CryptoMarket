@@ -1,5 +1,3 @@
-### This project belongs to: [Rahul Karda](https://github.com/rahulkarda)
-
 # Crypto-Info-API
 
 <div id="top"></div>
