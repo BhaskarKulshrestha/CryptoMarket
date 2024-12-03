@@ -481,6 +481,7 @@ table.darkTable #keywords{
 	border-radius: 12px 0 0 12px;
 	top: 0;
 	left: 0;
+	background-color: #0075bd;
 }
 
 .card img {
